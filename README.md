@@ -77,7 +77,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
     </tr>
     <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://shaban-free-host.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Free VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://shabanmd.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Shaban MD Site-CC00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
